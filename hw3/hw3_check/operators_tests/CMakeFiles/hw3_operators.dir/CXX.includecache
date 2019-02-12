@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cs104/cs104_test/hw3/ulliststr.cpp
+cstdlib
+-
+stdexcept
+-
+ulliststr.h
+/home/cs104/cs104_test/hw3/ulliststr.h
+
+/home/cs104/cs104_test/hw3/ulliststr.h
+string
+-
+

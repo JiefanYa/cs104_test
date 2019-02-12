@@ -1,0 +1,6 @@
+(your + program)
+(shouldb - b)
+<<(able + to )
+>>accommondate
+(all + these + cases)
+
